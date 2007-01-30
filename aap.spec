@@ -1,12 +1,12 @@
 Summary:	A-A-P - tool to locate, download, build and install software
 Summary(pl):	A-A-P - narzêdzie do ¶ci±gania, budowania i instalowania oprogramowania
 Name:		aap
-Version:	1.088
+Version:	1.089
 Release:	1
 License:	GPL v2
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/a-a-p/%{name}-%{version}.zip
-# Source0-md5:	11ae7f4a6f77f03ab319a17e7728efdc
+# Source0-md5:	31774a075f08c7a363debedbf6fa6a39
 URL:		http://www.a-a-p.org/
 BuildRequires:	python >= 1:2.3
 BuildRequires:	python-modules
