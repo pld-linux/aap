@@ -1,5 +1,5 @@
 Summary:	A-A-P - tool to locate, download, build and install software
-Summary(pl.UTF-8):   A-A-P - narzędzie do ściągania, budowania i instalowania oprogramowania
+Summary(pl.UTF-8):	A-A-P - narzędzie do ściągania, budowania i instalowania oprogramowania
 Name:		aap
 Version:	1.089
 Release:	1
