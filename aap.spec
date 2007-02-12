@@ -1,5 +1,5 @@
 Summary:	A-A-P - tool to locate, download, build and install software
-Summary(pl):	A-A-P - narzêdzie do ¶ci±gania, budowania i instalowania oprogramowania
+Summary(pl.UTF-8):   A-A-P - narzÄ™dzie do Å›ciÄ…gania, budowania i instalowania oprogramowania
 Name:		aap
 Version:	1.089
 Release:	1
@@ -21,12 +21,12 @@ It also supports browsing source code, developing programs, managing
 different versions and distribution of software and documentation.
 This means that A-A-P is useful both for users and for developers.
 
-%description -l pl
-A-A-P u³atwia odnajdowanie, ¶ci±ganie, budowanie i instalowanie
-oprogramowania. Wspiera tak¿e przegl±danie kodu ¼ród³owego, tworzenie
-programów, zarz±dzanie ró¿nymi wersjami oraz dystrybucjê
-oprogramowania i dokumentacji. Oznacza to, ¿e A-A-P jest przydatny
-zarówno dla u¿ytkowników, jak i programistów.
+%description -l pl.UTF-8
+A-A-P uÅ‚atwia odnajdowanie, Å›ciÄ…ganie, budowanie i instalowanie
+oprogramowania. Wspiera takÅ¼e przeglÄ…danie kodu ÅºrÃ³dÅ‚owego, tworzenie
+programÃ³w, zarzÄ…dzanie rÃ³Å¼nymi wersjami oraz dystrybucjÄ™
+oprogramowania i dokumentacji. Oznacza to, Å¼e A-A-P jest przydatny
+zarÃ³wno dla uÅ¼ytkownikÃ³w, jak i programistÃ³w.
 
 %prep
 %setup -q -c
