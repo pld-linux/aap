@@ -7,9 +7,9 @@ License:	GPL v2
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/a-a-p/%{name}-%{version}.zip
 # Source0-md5:	6fef135ef229ba6c5aea57aa1a9b8c71
+Patch0:		%{name}-FHS.patch
 URL:		http://www.a-a-p.org/
 BuildRequires:	python >= 1:2.3
-Patch0:		%{name}-FHS.patch
 BuildRequires:	python-modules
 BuildRequires:	rpm-pythonprov
 BuildRequires:	unzip
