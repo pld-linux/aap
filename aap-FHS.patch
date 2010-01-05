@@ -1,6 +1,13 @@
---- aap-1.090/main.aap~	2005-06-01 17:37:50.000000000 +0300
-+++ aap-1.090/main.aap	2009-01-18 23:53:47.712943686 +0200
-@@ -53,7 +53,7 @@
+--- aap-1.090/main.aap	2009-01-18 23:53:47.712943686 +0200
++++ aap-1.091/main.aap	2010-01-05 07:58:12.308951140 +0200
+@@ -47,13 +47,13 @@
+ 				    stdin).group(1) | :assign Version
+ 
+ 	# Directories to be used.
+-	dir = $PREFIX/lib/aap/Exec-$Version
++	dir = $PREFIX/share/aap
+ 	toolsdir = $dir/tools
+ 	modulesdir = $dir/modules
  	docdir = $dir/doc
  	htmldocdir = $docdir$?HTMLDIR
  	bindir = $PREFIX/bin
